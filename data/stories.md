@@ -29,3 +29,14 @@
 ## bot challenge
 * bot_challenge
   - utter_iamabot
+
+## interactive_story_1
+* greet
+    - utter_greet
+## interactive_story_1
+* greet
+    - utter_greet
+* status_check_back
+* status_check
+* BDIC
+* author

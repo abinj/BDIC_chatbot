@@ -54,3 +54,38 @@
 - are you a human?
 - am I talking to a bot?
 - am I talking to a human?
+
+## intent:status_check
+- I'm good
+- I'm alright
+- I'm doing well
+- I'm fine, what about you?
+
+## intent:status_check_back
+- What about you?
+- How are you?
+- how are you?
+
+## intent:BDIC
+- Big Data Insights Conference
+- What is BDIC?
+
+## intent:location
+- Georgian College, Barrie, Ontario
+
+## intent:department
+- Big Data Analytics
+
+## intent:date
+- March 7, 2020
+- 7th March, 2020
+
+## intent:author
+- Abin Joy
+- Abin
+- AJ
+- Who is your creator?
+
+## intent:birthplace
+- Barrie, Ontario
+- Barrie, ON, Canada
